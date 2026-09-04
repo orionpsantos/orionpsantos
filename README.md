@@ -7,12 +7,12 @@ com foco em insights inteligentes e automatizar tarefas repetitivas para otimiza
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
- **Linguagem Principal:** Python 3.x
- **Coleta de Dados / Scraping:** BeautifulSoup, Selenium, Playwright, Scrapy
- **Análise & Manipulação de Dados:** Pandas, NumPy, Polars
- **Visualização de Dados:** Streamlit, Plotly, Matplotlib
- **Bancos de Dados:** SQLite, PostgreSQL, MongoDB
- **DevOps & Ferramentas:** Git, GitHub, Docker, Ambientes Virtuais (venv/Poetry)
+* **Linguagem Principal:** Python 3.x
+* **Coleta de Dados / Scraping:** BeautifulSoup, Selenium, Playwright, Scrapy
+* **Análise & Manipulação de Dados:** Pandas, NumPy, Polars
+* **Visualização de Dados:** Streamlit, Plotly, Matplotlib
+* **Bancos de Dados:** SQLite, PostgreSQL, MongoDB
+* **DevOps & Ferramentas:** Git, GitHub, Docker, Ambientes Virtuais (venv/Poetry)
 
 ---
 
