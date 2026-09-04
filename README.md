@@ -1,16 +1,34 @@
-## Hi there 👋
+Markdown# Olá, eu sou o Orion 👋
 
-<!--
-**orionpsantos/orionpsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Python focado em **Automação de Processos**, **Web Scraping** e **Engenharia de Dados** 
+com foco em insights inteligentes e automatizar tarefas repetitivas para otimizar o tempo de equipes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Tecnologias e Ferramentas
+
+ **Linguagem Principal:** Python 3.x
+ **Coleta de Dados / Scraping:** BeautifulSoup, Selenium, Playwright, Scrapy
+ **Análise & Manipulação de Dados:** Pandas, NumPy, Polars
+ **Visualização de Dados:** Streamlit, Plotly, Matplotlib
+ **Bancos de Dados:** SQLite, PostgreSQL, MongoDB
+ **DevOps & Ferramentas:** Git, GitHub, Docker, Ambientes Virtuais (venv/Poetry)
+
+---
+
+### 🚀 Projetos em Destaque
+
+* 🤖 **[Monitor de precos]**: Em Breve: Monitor inteligente de preços automatizado com envio de alertas via Telegram.
+* 📊 **[Dashboard interativo]**: Em Breve: Dashboard interativo em Streamlit analisando dados públicos de saúde.
+
+
+
+---
+
+### 📫 Como me encontrar?
+
+* 💼 LinkedIn: https://www.linkedin.com/in/orion-prudencio-dos-santos-53592334
+* ✉️ E-mail: orionpsantos@hotmail.com
+
+
+---
