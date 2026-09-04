@@ -20,6 +20,8 @@ com foco em insights inteligentes e automatizar tarefas repetitivas para otimiza
 
 * 🤖 **[Monitor de precos]**: Em Breve: Monitor inteligente de preços automatizado com envio de alertas via Telegram.
 * 📊 **[Dashboard interativo]**: Em Breve: Dashboard interativo em Streamlit analisando dados públicos de saúde.
+* 📊 **[Relatorio Inteligente]**: Em Breve: Automação de planilhas + PDF.
+
 
 
 
